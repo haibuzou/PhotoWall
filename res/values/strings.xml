@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoWall</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="border_top">border_top</string>
+	<string name="border_bottom">border_bottom</string>
+	<string name="image_url">image_url</string>
+	
+</resources>
